@@ -1,0 +1,9 @@
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Utilities\obj\Debug\netstandard2.1\OKEService.Utilities.AssemblyInfoInputs.cache
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Utilities\obj\Debug\netstandard2.1\OKEService.Utilities.AssemblyInfo.cs
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Utilities\bin\Debug\netstandard2.1\OKEService.Utilities.deps.json
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Utilities\bin\Debug\netstandard2.1\OKEService.Utilities.dll
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Utilities\bin\Debug\netstandard2.1\OKEService.Utilities.pdb
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Utilities\obj\Debug\netstandard2.1\OKEService.Utilities.dll
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Utilities\obj\Debug\netstandard2.1\OKEService.Utilities.pdb
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Utilities\obj\Debug\netstandard2.1\OKEService.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Utilities\obj\Debug\netstandard2.1\OKEService.Utilities.csproj.CoreCompileInputs.cache

@@ -1,0 +1,207 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\parvaz.behzad\\source\\repos\\OKESevice\\OKEService.Infra.Events.PoolingPublisher\\OKEService.Infra.Events.PoolingPublisher.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\parvaz.behzad\\source\\repos\\OKESevice\\OKEService.Infra.Events.Outbox\\OKEService.Infra.Events.Outbox.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\parvaz.behzad\\source\\repos\\OKESevice\\OKEService.Infra.Events.Outbox\\OKEService.Infra.Events.Outbox.csproj",
+        "projectName": "OKEService.Infra.Events.Outbox",
+        "projectPath": "C:\\Users\\parvaz.behzad\\source\\repos\\OKESevice\\OKEService.Infra.Events.Outbox\\OKEService.Infra.Events.Outbox.csproj",
+        "packagesPath": "C:\\Users\\parvaz.behzad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\parvaz.behzad\\source\\repos\\OKESevice\\OKEService.Infra.Events.Outbox\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\parvaz.behzad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Users\\parvaz.behzad\\Downloads\\Stimulsoft Reports AIO 2020.2.3_Sourcebaran.Com\\Stimulsoft Reports AIO 2020.2.3_Sourcebaran.Com\\Crack_Sourcebaran.Com\\Libs\\Reports.NetCore": {},
+          "\\\\172.31.64.37\\nuget-repo": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-preview.3.21202.5\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\parvaz.behzad\\source\\repos\\OKESevice\\OKEService.Infra.Events.PoolingPublisher\\OKEService.Infra.Events.PoolingPublisher.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\parvaz.behzad\\source\\repos\\OKESevice\\OKEService.Infra.Events.PoolingPublisher\\OKEService.Infra.Events.PoolingPublisher.csproj",
+        "projectName": "OKEService.Infra.Events.PoolingPublisher",
+        "projectPath": "C:\\Users\\parvaz.behzad\\source\\repos\\OKESevice\\OKEService.Infra.Events.PoolingPublisher\\OKEService.Infra.Events.PoolingPublisher.csproj",
+        "packagesPath": "C:\\Users\\parvaz.behzad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\parvaz.behzad\\source\\repos\\OKESevice\\OKEService.Infra.Events.PoolingPublisher\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\parvaz.behzad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Users\\parvaz.behzad\\Downloads\\Stimulsoft Reports AIO 2020.2.3_Sourcebaran.Com\\Stimulsoft Reports AIO 2020.2.3_Sourcebaran.Com\\Crack_Sourcebaran.Com\\Libs\\Reports.NetCore": {},
+          "\\\\172.31.64.37\\nuget-repo": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\parvaz.behzad\\source\\repos\\OKESevice\\OKEService.Infra.Events.Outbox\\OKEService.Infra.Events.Outbox.csproj": {
+                "projectPath": "C:\\Users\\parvaz.behzad\\source\\repos\\OKESevice\\OKEService.Infra.Events.Outbox\\OKEService.Infra.Events.Outbox.csproj"
+              },
+              "C:\\Users\\parvaz.behzad\\source\\repos\\OKESevice\\OKEService.Utilities\\OKEService.Utilities.csproj": {
+                "projectPath": "C:\\Users\\parvaz.behzad\\source\\repos\\OKESevice\\OKEService.Utilities\\OKEService.Utilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.Extensions.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-preview.3.21202.5\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\parvaz.behzad\\source\\repos\\OKESevice\\OKEService.Utilities\\OKEService.Utilities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\parvaz.behzad\\source\\repos\\OKESevice\\OKEService.Utilities\\OKEService.Utilities.csproj",
+        "projectName": "OKEService.Utilities",
+        "projectPath": "C:\\Users\\parvaz.behzad\\source\\repos\\OKESevice\\OKEService.Utilities\\OKEService.Utilities.csproj",
+        "packagesPath": "C:\\Users\\parvaz.behzad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\parvaz.behzad\\source\\repos\\OKESevice\\OKEService.Utilities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\parvaz.behzad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Users\\parvaz.behzad\\Downloads\\Stimulsoft Reports AIO 2020.2.3_Sourcebaran.Com\\Stimulsoft Reports AIO 2020.2.3_Sourcebaran.Com\\Crack_Sourcebaran.Com\\Libs\\Reports.NetCore": {},
+          "\\\\172.31.64.37\\nuget-repo": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-preview.3.21202.5\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

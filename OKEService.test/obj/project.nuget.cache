@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3gKYal8coERg90rJPwu/ClmuX0G0AlgpBhyRLosGA5zaGnxQ8riTU90ldfY4JDGSoB4FK8FowP4ahf9tKUF3Fw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\parvaz.behzad\\source\\repos\\OKESevice\\OKEService.test\\OKEService.test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\parvaz.behzad\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

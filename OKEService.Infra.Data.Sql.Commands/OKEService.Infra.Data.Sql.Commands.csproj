@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="2.0.78" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.5" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\OKEService.Core.Domain\OKEService.Core.Domain.csproj" />
+    <ProjectReference Include="..\OKEService.Infra.Data.ChangeInterceptors\OKEService.Infra.Data.ChangeInterceptors.csproj" />
+    <ProjectReference Include="..\OKEService.Infra.Data.Sql\OKEService.Infra.Data.Sql.csproj" />
+    <ProjectReference Include="..\OKEService.Infra.Events.Outbox\OKEService.Infra.Events.Outbox.csproj" />
+    <ProjectReference Include="..\OKEService.Utilities\OKEService.Utilities.csproj" />
+  </ItemGroup>
+
+</Project>

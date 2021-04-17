@@ -1,0 +1,13 @@
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Tools.Caching.Microsoft\bin\Debug\netstandard2.1\OKEService.Infra.Tools.Caching.Microsoft.deps.json
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Tools.Caching.Microsoft\bin\Debug\netstandard2.1\OKEService.Infra.Tools.Caching.Microsoft.dll
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Tools.Caching.Microsoft\bin\Debug\netstandard2.1\OKEService.Infra.Tools.Caching.Microsoft.pdb
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Tools.Caching.Microsoft\bin\Debug\netstandard2.1\OKEService.Utilities.dll
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Tools.Caching.Microsoft\bin\Debug\netstandard2.1\OKEService.Utilities.pdb
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Tools.Caching.Microsoft\obj\Debug\netstandard2.1\OKEService.Infra.Tools.Caching.Microsoft.csprojAssemblyReference.cache
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Tools.Caching.Microsoft\obj\Debug\netstandard2.1\OKEService.Infra.Tools.Caching.Microsoft.AssemblyInfoInputs.cache
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Tools.Caching.Microsoft\obj\Debug\netstandard2.1\OKEService.Infra.Tools.Caching.Microsoft.AssemblyInfo.cs
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Tools.Caching.Microsoft\obj\Debug\netstandard2.1\OKEService.Infra.Tools.Caching.Microsoft.csproj.CopyComplete
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Tools.Caching.Microsoft\obj\Debug\netstandard2.1\OKEService.Infra.Tools.Caching.Microsoft.dll
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Tools.Caching.Microsoft\obj\Debug\netstandard2.1\OKEService.Infra.Tools.Caching.Microsoft.pdb
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Tools.Caching.Microsoft\obj\Debug\netstandard2.1\OKEService.Infra.Tools.Caching.Microsoft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Tools.Caching.Microsoft\obj\Debug\netstandard2.1\OKEService.Infra.Tools.Caching.Microsoft.csproj.CoreCompileInputs.cache

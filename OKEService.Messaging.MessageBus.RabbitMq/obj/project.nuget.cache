@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "atySU1KXzI8N4vvYXw4Miz6W2rPMlXzkobFPoBg/1bXSGuZ3r48vy7OECGOzAs4ut0/grxn2vZZ5h1rmW3j62A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\parvaz.behzad\\source\\repos\\OKESevice\\OKEService.Messaging.MessageBus.RabbitMq\\OKEService.Messaging.MessageBus.RabbitMq.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\parvaz.behzad\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\parvaz.behzad\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\parvaz.behzad\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\parvaz.behzad\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\parvaz.behzad\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\parvaz.behzad\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.3\\system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512",
+    "C:\\Users\\parvaz.behzad\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512",
+    "C:\\Users\\parvaz.behzad\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

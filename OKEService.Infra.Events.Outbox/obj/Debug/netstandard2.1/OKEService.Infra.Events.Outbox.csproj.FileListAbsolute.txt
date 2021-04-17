@@ -1,0 +1,10 @@
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Events.Outbox\bin\Debug\netstandard2.1\OKEService.Infra.Events.Outbox.deps.json
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Events.Outbox\bin\Debug\netstandard2.1\OKEService.Infra.Events.Outbox.dll
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Events.Outbox\bin\Debug\netstandard2.1\OKEService.Infra.Events.Outbox.pdb
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Events.Outbox\obj\Debug\netstandard2.1\OKEService.Infra.Events.Outbox.AssemblyInfoInputs.cache
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Events.Outbox\obj\Debug\netstandard2.1\OKEService.Infra.Events.Outbox.AssemblyInfo.cs
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Events.Outbox\obj\Debug\netstandard2.1\OKEService.Infra.Events.Outbox.dll
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Events.Outbox\obj\Debug\netstandard2.1\OKEService.Infra.Events.Outbox.pdb
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Events.Outbox\obj\Debug\netstandard2.1\OKEService.Infra.Events.Outbox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Events.Outbox\obj\Debug\netstandard2.1\OKEService.Infra.Events.Outbox.csproj.CoreCompileInputs.cache
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Events.Outbox\obj\Debug\netstandard2.1\OKEService.Infra.Events.Outbox.csprojAssemblyReference.cache

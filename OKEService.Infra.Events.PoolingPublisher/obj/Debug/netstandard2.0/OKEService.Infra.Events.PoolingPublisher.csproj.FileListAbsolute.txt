@@ -1,0 +1,4 @@
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Events.PoolingPublisher\bin\Debug\netstandard2.0\OKEService.Infra.Events.PoolingPublisher.deps.json
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Events.PoolingPublisher\bin\Debug\netstandard2.0\OKEService.Infra.Events.PoolingPublisher.dll
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Events.PoolingPublisher\obj\Debug\netstandard2.0\OKEService.Infra.Events.PoolingPublisher.AssemblyInfoInputs.cache
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Events.PoolingPublisher\obj\Debug\netstandard2.0\OKEService.Infra.Events.PoolingPublisher.AssemblyInfo.cs

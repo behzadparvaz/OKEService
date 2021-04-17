@@ -1,0 +1,17 @@
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Messaging.IdempotentConsumers.Store.Sql\bin\Debug\netstandard2.1\OKEService.Messaging.IdempotentConsumers.Store.Sql.deps.json
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Messaging.IdempotentConsumers.Store.Sql\bin\Debug\netstandard2.1\OKEService.Messaging.IdempotentConsumers.Store.Sql.dll
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Messaging.IdempotentConsumers.Store.Sql\bin\Debug\netstandard2.1\OKEService.Utilities.dll
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Messaging.IdempotentConsumers.Store.Sql\bin\Debug\netstandard2.1\OKEService.Utilities.pdb
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Messaging.IdempotentConsumers.Store.Sql\obj\Debug\netstandard2.1\OKEService.Messaging.IdempotentConsumers.Store.Sql.AssemblyInfoInputs.cache
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Messaging.IdempotentConsumers.Store.Sql\obj\Debug\netstandard2.1\OKEService.Messaging.IdempotentConsumers.Store.Sql.AssemblyInfo.cs
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Messaging.IdempotentConsumers.Store.Sql\obj\Debug\netstandard2.1\OKEService.Messaging.IdempotentConsumers.Store.Sql.csproj.CopyComplete
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Messaging.IdempotentConsumers.Store.Sql\obj\Debug\netstandard2.1\OKEService.Messaging.IdempotentConsumers.Store.Sql.csprojAssemblyReference.cache
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Messaging.IdempotentConsumers.Store.Sql\bin\Debug\netstandard2.1\OKEService.Messaging.IdempotentConsumers.Store.Sql.pdb
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Messaging.IdempotentConsumers.Store.Sql\bin\Debug\netstandard2.1\OKEService.Core.ApplicationServices.dll
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Messaging.IdempotentConsumers.Store.Sql\bin\Debug\netstandard2.1\OKEService.Core.Domain.dll
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Messaging.IdempotentConsumers.Store.Sql\bin\Debug\netstandard2.1\OKEService.Messaging.IdempotentConsumers.dll
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Messaging.IdempotentConsumers.Store.Sql\bin\Debug\netstandard2.1\OKEService.Messaging.IdempotentConsumers.pdb
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Messaging.IdempotentConsumers.Store.Sql\bin\Debug\netstandard2.1\OKEService.Core.ApplicationServices.pdb
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Messaging.IdempotentConsumers.Store.Sql\bin\Debug\netstandard2.1\OKEService.Core.Domain.pdb
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Messaging.IdempotentConsumers.Store.Sql\obj\Debug\netstandard2.1\OKEService.Messaging.IdempotentConsumers.Store.Sql.dll
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Messaging.IdempotentConsumers.Store.Sql\obj\Debug\netstandard2.1\OKEService.Messaging.IdempotentConsumers.Store.Sql.pdb

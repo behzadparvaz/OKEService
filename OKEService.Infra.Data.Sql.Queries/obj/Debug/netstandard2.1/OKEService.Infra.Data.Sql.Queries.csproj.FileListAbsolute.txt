@@ -1,0 +1,13 @@
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Data.Sql.Queries\bin\Debug\netstandard2.1\OKEService.Infra.Data.Sql.Queries.deps.json
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Data.Sql.Queries\bin\Debug\netstandard2.1\OKEService.Infra.Data.Sql.Queries.dll
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Data.Sql.Queries\bin\Debug\netstandard2.1\OKEService.Core.Domain.dll
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Data.Sql.Queries\bin\Debug\netstandard2.1\OKEService.Utilities.dll
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Data.Sql.Queries\bin\Debug\netstandard2.1\OKEService.Core.Domain.pdb
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Data.Sql.Queries\bin\Debug\netstandard2.1\OKEService.Utilities.pdb
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Data.Sql.Queries\obj\Debug\netstandard2.1\OKEService.Infra.Data.Sql.Queries.csprojAssemblyReference.cache
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Data.Sql.Queries\obj\Debug\netstandard2.1\OKEService.Infra.Data.Sql.Queries.AssemblyInfoInputs.cache
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Data.Sql.Queries\obj\Debug\netstandard2.1\OKEService.Infra.Data.Sql.Queries.AssemblyInfo.cs
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Data.Sql.Queries\obj\Debug\netstandard2.1\OKEService.Infra.Data.Sql.Queries.csproj.CopyComplete
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Data.Sql.Queries\bin\Debug\netstandard2.1\OKEService.Infra.Data.Sql.Queries.pdb
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Data.Sql.Queries\obj\Debug\netstandard2.1\OKEService.Infra.Data.Sql.Queries.dll
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Data.Sql.Queries\obj\Debug\netstandard2.1\OKEService.Infra.Data.Sql.Queries.pdb

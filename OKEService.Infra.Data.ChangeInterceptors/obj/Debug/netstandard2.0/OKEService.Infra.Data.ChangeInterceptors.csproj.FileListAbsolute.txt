@@ -1,0 +1,10 @@
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Data.ChangeInterceptors\bin\Debug\netstandard2.0\OKEService.Infra.Data.ChangeInterceptors.deps.json
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Data.ChangeInterceptors\bin\Debug\netstandard2.0\OKEService.Infra.Data.ChangeInterceptors.dll
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Data.ChangeInterceptors\bin\Debug\netstandard2.0\OKEService.Infra.Data.ChangeInterceptors.pdb
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Data.ChangeInterceptors\obj\Debug\netstandard2.0\OKEService.Infra.Data.ChangeInterceptors.csprojAssemblyReference.cache
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Data.ChangeInterceptors\obj\Debug\netstandard2.0\OKEService.Infra.Data.ChangeInterceptors.AssemblyInfoInputs.cache
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Data.ChangeInterceptors\obj\Debug\netstandard2.0\OKEService.Infra.Data.ChangeInterceptors.AssemblyInfo.cs
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Data.ChangeInterceptors\obj\Debug\netstandard2.0\OKEService.Infra.Data.ChangeInterceptors.dll
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Data.ChangeInterceptors\obj\Debug\netstandard2.0\OKEService.Infra.Data.ChangeInterceptors.pdb
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Data.ChangeInterceptors\obj\Debug\netstandard2.0\OKEService.Infra.Data.ChangeInterceptors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Data.ChangeInterceptors\obj\Debug\netstandard2.0\OKEService.Infra.Data.ChangeInterceptors.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Events.PoolingPublisher\bin\Debug\netstandard2.1\OKEService.Infra.Events.PoolingPublisher.deps.json
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Events.PoolingPublisher\bin\Debug\netstandard2.1\OKEService.Infra.Events.PoolingPublisher.dll
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Events.PoolingPublisher\bin\Debug\netstandard2.1\OKEService.Infra.Events.PoolingPublisher.pdb
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Events.PoolingPublisher\bin\Debug\netstandard2.1\OKEService.Infra.Events.Outbox.dll
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Events.PoolingPublisher\bin\Debug\netstandard2.1\OKEService.Utilities.dll
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Events.PoolingPublisher\bin\Debug\netstandard2.1\OKEService.Infra.Events.Outbox.pdb
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Events.PoolingPublisher\bin\Debug\netstandard2.1\OKEService.Utilities.pdb
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Events.PoolingPublisher\obj\Debug\netstandard2.1\OKEService.Infra.Events.PoolingPublisher.csprojAssemblyReference.cache
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Events.PoolingPublisher\obj\Debug\netstandard2.1\OKEService.Infra.Events.PoolingPublisher.AssemblyInfoInputs.cache
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Events.PoolingPublisher\obj\Debug\netstandard2.1\OKEService.Infra.Events.PoolingPublisher.AssemblyInfo.cs
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Events.PoolingPublisher\obj\Debug\netstandard2.1\OKEService.Infra.Events.PoolingPublisher.csproj.CopyComplete
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Events.PoolingPublisher\obj\Debug\netstandard2.1\OKEService.Infra.Events.PoolingPublisher.dll
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Events.PoolingPublisher\obj\Debug\netstandard2.1\OKEService.Infra.Events.PoolingPublisher.pdb
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Events.PoolingPublisher\obj\Debug\netstandard2.1\OKEService.Infra.Events.PoolingPublisher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Events.PoolingPublisher\obj\Debug\netstandard2.1\OKEService.Infra.Events.PoolingPublisher.csproj.CoreCompileInputs.cache

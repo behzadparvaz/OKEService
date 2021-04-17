@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package  xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+      <metadata>   
+            <id>OKEService</id>
+            <version>1.0.0</version>
+            <title>OK Services</title>
+            <authors>Behzad Parvaz</authors>
+            <owners>Behzad Parvaz</owners>
+            <licenseUrl>https://github.com/AmRo045/LogAssist/blob/master/LICENSE</licenseUrl>
+            <projectUrl>https://github.com/AmRo045/LogAssist</projectUrl>
+      <iconUrl>https://raw.githubusercontent.com/AmRo045/LogAssist/master/Resources/LogAssist_Icon.png</iconUrl>
+            <requireLicenseAcceptance>false</requireLicenseAcceptance>
+            <description>Ok MicroService</description>
+            <releaseNotes>First release</releaseNotes>
+            <copyright>Copyright 2021 SourceSara.Com</copyright>
+            <tags>OKServices OkChainStore OkMicroService</tags>
+            <summary>Ok Micro Service</summary>
+      </metadata>
+      <files>
+            <file src="Readme.txt" target="" />
+      </files>   
+</package>

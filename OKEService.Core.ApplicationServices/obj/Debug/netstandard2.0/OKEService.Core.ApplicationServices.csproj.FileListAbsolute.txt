@@ -1,0 +1,5 @@
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Core.ApplicationServices\obj\Debug\netstandard2.0\OKEService.Core.ApplicationServices.csprojAssemblyReference.cache
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Core.ApplicationServices\obj\Debug\netstandard2.0\OKEService.Core.ApplicationServices.AssemblyInfoInputs.cache
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Core.ApplicationServices\obj\Debug\netstandard2.0\OKEService.Core.ApplicationServices.AssemblyInfo.cs
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Core.ApplicationServices\bin\Debug\netstandard2.0\OKEService.Core.ApplicationServices.deps.json
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Core.ApplicationServices\bin\Debug\netstandard2.0\OKEService.Core.ApplicationServices.dll

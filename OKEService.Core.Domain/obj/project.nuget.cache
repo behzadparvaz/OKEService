@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "QqnOeeuV4Y0CXkFLc/VLf7QFmGCrRVbv5MI6eGNMynE2WafDSfOnOpY42GQaEDUbfLnuprSrLv37Td2T82Uqhw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\parvaz.behzad\\source\\repos\\OKESevice\\OKEService.Core.Domain\\OKEService.Core.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\parvaz.behzad\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\parvaz.behzad\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\parvaz.behzad\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

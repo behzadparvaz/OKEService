@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = OKEService.Messaging.IdempotentConsumers.Store.Sql
+build_property.ProjectDir = C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Messaging.IdempotentConsumers.Store.Sql\

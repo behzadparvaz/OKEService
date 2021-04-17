@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "cRu8dyQL6jnPDD3pICV3MeVRvl2P/9Gtiu+r0PUe+s0o7sbVte2TpPqhMAvQxU9AbqgJORUlYz/xPHm9iQKpxQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\parvaz.behzad\\source\\repos\\OKESevice\\OKEService.Infra.Localizations.Microsoft\\OKEService.Infra.Localizations.Microsoft.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\parvaz.behzad\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\parvaz.behzad\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\parvaz.behzad\\.nuget\\packages\\microsoft.extensions.localization.abstractions\\5.0.5\\microsoft.extensions.localization.abstractions.5.0.5.nupkg.sha512",
+    "C:\\Users\\parvaz.behzad\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\parvaz.behzad\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\parvaz.behzad\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\parvaz.behzad\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\parvaz.behzad\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\parvaz.behzad\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

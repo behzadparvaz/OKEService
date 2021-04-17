@@ -1,0 +1,4 @@
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Tools.Caching.Microsoft\bin\Debug\netstandard2.0\OKEService.Infra.Tools.Caching.Microsoft.deps.json
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Tools.Caching.Microsoft\bin\Debug\netstandard2.0\OKEService.Infra.Tools.Caching.Microsoft.dll
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Tools.Caching.Microsoft\obj\Debug\netstandard2.0\OKEService.Infra.Tools.Caching.Microsoft.AssemblyInfoInputs.cache
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Tools.Caching.Microsoft\obj\Debug\netstandard2.0\OKEService.Infra.Tools.Caching.Microsoft.AssemblyInfo.cs

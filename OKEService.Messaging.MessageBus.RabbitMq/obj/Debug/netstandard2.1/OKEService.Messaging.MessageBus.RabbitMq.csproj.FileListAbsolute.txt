@@ -1,0 +1,11 @@
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Messaging.MessageBus.RabbitMq\bin\Debug\netstandard2.1\OKEService.Messaging.MessageBus.RabbitMq.deps.json
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Messaging.MessageBus.RabbitMq\bin\Debug\netstandard2.1\OKEService.Messaging.MessageBus.RabbitMq.dll
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Messaging.MessageBus.RabbitMq\bin\Debug\netstandard2.1\OKEService.Utilities.dll
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Messaging.MessageBus.RabbitMq\bin\Debug\netstandard2.1\OKEService.Utilities.pdb
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Messaging.MessageBus.RabbitMq\obj\Debug\netstandard2.1\OKEService.Messaging.MessageBus.RabbitMq.csprojAssemblyReference.cache
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Messaging.MessageBus.RabbitMq\obj\Debug\netstandard2.1\OKEService.Messaging.MessageBus.RabbitMq.AssemblyInfoInputs.cache
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Messaging.MessageBus.RabbitMq\obj\Debug\netstandard2.1\OKEService.Messaging.MessageBus.RabbitMq.AssemblyInfo.cs
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Messaging.MessageBus.RabbitMq\obj\Debug\netstandard2.1\OKEService.Messaging.MessageBus.RabbitMq.csproj.CopyComplete
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Messaging.MessageBus.RabbitMq\bin\Debug\netstandard2.1\OKEService.Messaging.MessageBus.RabbitMq.pdb
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Messaging.MessageBus.RabbitMq\obj\Debug\netstandard2.1\OKEService.Messaging.MessageBus.RabbitMq.dll
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Messaging.MessageBus.RabbitMq\obj\Debug\netstandard2.1\OKEService.Messaging.MessageBus.RabbitMq.pdb

@@ -1,0 +1,13 @@
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Tools.OM.AutoMapper\bin\Debug\netstandard2.1\OKEService.Infra.Tools.OM.AutoMapper.deps.json
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Tools.OM.AutoMapper\bin\Debug\netstandard2.1\OKEService.Infra.Tools.OM.AutoMapper.dll
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Tools.OM.AutoMapper\bin\Debug\netstandard2.1\OKEService.Utilities.dll
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Tools.OM.AutoMapper\bin\Debug\netstandard2.1\OKEService.Utilities.pdb
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Tools.OM.AutoMapper\obj\Debug\netstandard2.1\OKEService.Infra.Tools.OM.AutoMapper.csprojAssemblyReference.cache
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Tools.OM.AutoMapper\obj\Debug\netstandard2.1\OKEService.Infra.Tools.OM.AutoMapper.AssemblyInfoInputs.cache
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Tools.OM.AutoMapper\obj\Debug\netstandard2.1\OKEService.Infra.Tools.OM.AutoMapper.AssemblyInfo.cs
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Tools.OM.AutoMapper\obj\Debug\netstandard2.1\OKEService.Infra.Tools.OM.AutoMapper.csproj.CopyComplete
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Tools.OM.AutoMapper\bin\Debug\netstandard2.1\OKEService.Infra.Tools.OM.AutoMapper.pdb
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Tools.OM.AutoMapper\obj\Debug\netstandard2.1\OKEService.Infra.Tools.OM.AutoMapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Tools.OM.AutoMapper\obj\Debug\netstandard2.1\OKEService.Infra.Tools.OM.AutoMapper.csproj.CoreCompileInputs.cache
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Tools.OM.AutoMapper\obj\Debug\netstandard2.1\OKEService.Infra.Tools.OM.AutoMapper.dll
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Tools.OM.AutoMapper\obj\Debug\netstandard2.1\OKEService.Infra.Tools.OM.AutoMapper.pdb

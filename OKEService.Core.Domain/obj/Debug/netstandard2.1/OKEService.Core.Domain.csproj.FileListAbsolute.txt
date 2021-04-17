@@ -1,0 +1,13 @@
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Core.Domain\obj\Debug\netstandard2.1\OKEService.Core.Domain.AssemblyInfoInputs.cache
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Core.Domain\obj\Debug\netstandard2.1\OKEService.Core.Domain.AssemblyInfo.cs
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Core.Domain\obj\Debug\netstandard2.1\OKEService.Core.Domain.csprojAssemblyReference.cache
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Core.Domain\bin\Debug\netstandard2.1\OKEService.Core.Domain.deps.json
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Core.Domain\bin\Debug\netstandard2.1\OKEService.Core.Domain.dll
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Core.Domain\bin\Debug\netstandard2.1\OKEService.Utilities.dll
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Core.Domain\bin\Debug\netstandard2.1\OKEService.Utilities.pdb
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Core.Domain\obj\Debug\netstandard2.1\OKEService.Core.Domain.csproj.CopyComplete
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Core.Domain\bin\Debug\netstandard2.1\OKEService.Core.Domain.pdb
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Core.Domain\obj\Debug\netstandard2.1\OKEService.Core.Domain.dll
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Core.Domain\obj\Debug\netstandard2.1\OKEService.Core.Domain.pdb
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Core.Domain\obj\Debug\netstandard2.1\OKEService.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Core.Domain\obj\Debug\netstandard2.1\OKEService.Core.Domain.csproj.CoreCompileInputs.cache

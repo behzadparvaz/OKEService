@@ -1,0 +1,13 @@
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Tools.Localizer.Parrot\bin\Debug\netstandard2.1\OKEService.Infra.Tools.Localizer.Parrot.deps.json
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Tools.Localizer.Parrot\bin\Debug\netstandard2.1\OKEService.Infra.Tools.Localizer.Parrot.dll
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Tools.Localizer.Parrot\bin\Debug\netstandard2.1\OKEService.Utilities.dll
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Tools.Localizer.Parrot\bin\Debug\netstandard2.1\OKEService.Utilities.pdb
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Tools.Localizer.Parrot\obj\Debug\netstandard2.1\OKEService.Infra.Tools.Localizer.Parrot.csprojAssemblyReference.cache
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Tools.Localizer.Parrot\obj\Debug\netstandard2.1\OKEService.Infra.Tools.Localizer.Parrot.AssemblyInfoInputs.cache
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Tools.Localizer.Parrot\obj\Debug\netstandard2.1\OKEService.Infra.Tools.Localizer.Parrot.AssemblyInfo.cs
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Tools.Localizer.Parrot\obj\Debug\netstandard2.1\OKEService.Infra.Tools.Localizer.Parrot.csproj.CopyComplete
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Tools.Localizer.Parrot\obj\Debug\netstandard2.1\OKEService.Infra.Tools.Localizer.Parrot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Tools.Localizer.Parrot\obj\Debug\netstandard2.1\OKEService.Infra.Tools.Localizer.Parrot.csproj.CoreCompileInputs.cache
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Tools.Localizer.Parrot\bin\Debug\netstandard2.1\OKEService.Infra.Tools.Localizer.Parrot.pdb
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Tools.Localizer.Parrot\obj\Debug\netstandard2.1\OKEService.Infra.Tools.Localizer.Parrot.dll
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Tools.Localizer.Parrot\obj\Debug\netstandard2.1\OKEService.Infra.Tools.Localizer.Parrot.pdb

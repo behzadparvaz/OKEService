@@ -1,0 +1,5 @@
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Localizations.Microsoft\bin\Debug\netstandard2.0\OKEService.Infra.Localizations.Microsoft.deps.json
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Localizations.Microsoft\bin\Debug\netstandard2.0\OKEService.Infra.Localizations.Microsoft.dll
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Localizations.Microsoft\obj\Debug\netstandard2.0\OKEService.Infra.Localizations.Microsoft.csprojAssemblyReference.cache
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Localizations.Microsoft\obj\Debug\netstandard2.0\OKEService.Infra.Localizations.Microsoft.AssemblyInfoInputs.cache
+C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Localizations.Microsoft\obj\Debug\netstandard2.0\OKEService.Infra.Localizations.Microsoft.AssemblyInfo.cs
