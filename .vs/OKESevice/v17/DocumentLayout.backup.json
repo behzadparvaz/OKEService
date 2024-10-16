@@ -5,6 +5,26 @@
     {
       "AbsoluteMoniker": "D:0:0:{1727F2A2-F94B-4BB6-AD20-2A13F3E34F69}|OKEService.Infra.Data.Sql.Commands\\OKEService.Infra.Data.Sql.Commands.csproj|c:\\users\\molaei.alireza\\desktop\\okeservice\\okeservice.infra.data.sql.commands\\outboxeventitems\\sqloutboxeventitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1727F2A2-F94B-4BB6-AD20-2A13F3E34F69}|OKEService.Infra.Data.Sql.Commands\\OKEService.Infra.Data.Sql.Commands.csproj|solutionrelative:okeservice.infra.data.sql.commands\\outboxeventitems\\sqloutboxeventitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9A8AE11-78E4-4B19-A350-6DFC18069F37}|OKEService.Utilities\\OKEService.Utilities.csproj|c:\\users\\molaei.alireza\\desktop\\okeservice\\okeservice.utilities\\configurations\\okeserviceconfigurationoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9A8AE11-78E4-4B19-A350-6DFC18069F37}|OKEService.Utilities\\OKEService.Utilities.csproj|solutionrelative:okeservice.utilities\\configurations\\okeserviceconfigurationoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FCC7CAB-4129-41CC-AD76-6CF0506FCF7B}|OKEService.EndPoints.Web\\OKEService.EndPoints.Web.csproj|c:\\users\\molaei.alireza\\desktop\\okeservice\\okeservice.endpoints.web\\appsettings.okeservice.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2FCC7CAB-4129-41CC-AD76-6CF0506FCF7B}|OKEService.EndPoints.Web\\OKEService.EndPoints.Web.csproj|solutionrelative:okeservice.endpoints.web\\appsettings.okeservice.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FCC7CAB-4129-41CC-AD76-6CF0506FCF7B}|OKEService.EndPoints.Web\\OKEService.EndPoints.Web.csproj|c:\\users\\molaei.alireza\\desktop\\okeservice\\okeservice.endpoints.web\\startupextentions\\addapiconfigurationextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FCC7CAB-4129-41CC-AD76-6CF0506FCF7B}|OKEService.EndPoints.Web\\OKEService.EndPoints.Web.csproj|solutionrelative:okeservice.endpoints.web\\startupextentions\\addapiconfigurationextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FCC7CAB-4129-41CC-AD76-6CF0506FCF7B}|OKEService.EndPoints.Web\\OKEService.EndPoints.Web.csproj|c:\\users\\molaei.alireza\\desktop\\okeservice\\okeservice.endpoints.web\\startupextentions\\addokeservicesextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FCC7CAB-4129-41CC-AD76-6CF0506FCF7B}|OKEService.EndPoints.Web\\OKEService.EndPoints.Web.csproj|solutionrelative:okeservice.endpoints.web\\startupextentions\\addokeservicesextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1727F2A2-F94B-4BB6-AD20-2A13F3E34F69}|OKEService.Infra.Data.Sql.Commands\\OKEService.Infra.Data.Sql.Commands.csproj|c:\\users\\molaei.alireza\\desktop\\okeservice\\okeservice.infra.data.sql.commands\\outboxeventitems\\outboxeventitemconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1727F2A2-F94B-4BB6-AD20-2A13F3E34F69}|OKEService.Infra.Data.Sql.Commands\\OKEService.Infra.Data.Sql.Commands.csproj|solutionrelative:okeservice.infra.data.sql.commands\\outboxeventitems\\outboxeventitemconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +34,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.okeservice.json",
+              "DocumentMoniker": "C:\\Users\\molaei.alireza\\Desktop\\OKEService\\OKEService.EndPoints.Web\\appsettings.okeservice.json",
+              "RelativeDocumentMoniker": "OKEService.EndPoints.Web\\appsettings.okeservice.json",
+              "ToolTip": "C:\\Users\\molaei.alireza\\Desktop\\OKEService\\OKEService.EndPoints.Web\\appsettings.okeservice.json",
+              "RelativeToolTip": "OKEService.EndPoints.Web\\appsettings.okeservice.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-16T08:02:43.606Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OKEServiceConfigurationOptions.cs",
+              "DocumentMoniker": "C:\\Users\\molaei.alireza\\Desktop\\OKEService\\OKEService.Utilities\\Configurations\\OKEServiceConfigurationOptions.cs",
+              "RelativeDocumentMoniker": "OKEService.Utilities\\Configurations\\OKEServiceConfigurationOptions.cs",
+              "ToolTip": "C:\\Users\\molaei.alireza\\Desktop\\OKEService\\OKEService.Utilities\\Configurations\\OKEServiceConfigurationOptions.cs",
+              "RelativeToolTip": "OKEService.Utilities\\Configurations\\OKEServiceConfigurationOptions.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T08:01:08.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddOKEServicesExtentions.cs",
+              "DocumentMoniker": "C:\\Users\\molaei.alireza\\Desktop\\OKEService\\OKEService.EndPoints.Web\\StartupExtentions\\AddOKEServicesExtentions.cs",
+              "RelativeDocumentMoniker": "OKEService.EndPoints.Web\\StartupExtentions\\AddOKEServicesExtentions.cs",
+              "ToolTip": "C:\\Users\\molaei.alireza\\Desktop\\OKEService\\OKEService.EndPoints.Web\\StartupExtentions\\AddOKEServicesExtentions.cs",
+              "RelativeToolTip": "OKEService.EndPoints.Web\\StartupExtentions\\AddOKEServicesExtentions.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAuwDEAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T07:59:45.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddApiConfigurationExtentions.cs",
+              "DocumentMoniker": "C:\\Users\\molaei.alireza\\Desktop\\OKEService\\OKEService.EndPoints.Web\\StartupExtentions\\AddApiConfigurationExtentions.cs",
+              "RelativeDocumentMoniker": "OKEService.EndPoints.Web\\StartupExtentions\\AddApiConfigurationExtentions.cs",
+              "ToolTip": "C:\\Users\\molaei.alireza\\Desktop\\OKEService\\OKEService.EndPoints.Web\\StartupExtentions\\AddApiConfigurationExtentions.cs",
+              "RelativeToolTip": "OKEService.EndPoints.Web\\StartupExtentions\\AddApiConfigurationExtentions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T07:59:34.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OutBoxEventItemConfig.cs",
+              "DocumentMoniker": "C:\\Users\\molaei.alireza\\Desktop\\OKEService\\OKEService.Infra.Data.Sql.Commands\\OutBoxEventItems\\OutBoxEventItemConfig.cs",
+              "RelativeDocumentMoniker": "OKEService.Infra.Data.Sql.Commands\\OutBoxEventItems\\OutBoxEventItemConfig.cs",
+              "ToolTip": "C:\\Users\\molaei.alireza\\Desktop\\OKEService\\OKEService.Infra.Data.Sql.Commands\\OutBoxEventItems\\OutBoxEventItemConfig.cs",
+              "RelativeToolTip": "OKEService.Infra.Data.Sql.Commands\\OutBoxEventItems\\OutBoxEventItemConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T07:59:14.007Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -28,7 +113,7 @@
               "RelativeDocumentMoniker": "OKEService.Infra.Data.Sql.Commands\\OutBoxEventItems\\SqlOutBoxEventItemRepository.cs",
               "ToolTip": "C:\\Users\\molaei.alireza\\Desktop\\OKEService\\OKEService.Infra.Data.Sql.Commands\\OutBoxEventItems\\SqlOutBoxEventItemRepository.cs",
               "RelativeToolTip": "OKEService.Infra.Data.Sql.Commands\\OutBoxEventItems\\SqlOutBoxEventItemRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T07:55:34.21Z",
               "EditorCaption": ""

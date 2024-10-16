@@ -4,12 +4,13 @@ using Microsoft.Extensions.Hosting;
 using Serilog;
 using System;
 using System.Linq;
+using Microsoft.AspNetCore.Builder;
 
 namespace OKEService.EndPoints.Web
 {
     public class OKEServiceProgram
     {
-        public int Main(string[] args, Type startUp, params string[] appSettingFiles)
+        public IHostBuilder Main(string[] args, Type startUp, params string[] appSettingFiles)
         {
 
             if (appSettingFiles == null || !appSettingFiles.Any())
@@ -22,20 +23,19 @@ namespace OKEService.EndPoints.Web
                 configBuilder.AddJsonFile(item);
             }
             var configuration = configBuilder.Build();
-
             Log.Logger = new LoggerConfiguration()
                 .ReadFrom.Configuration(configuration)
                 .CreateLogger();
             try
             {
                 Log.Information("Starting web host");
-                CreateHostBuilder(args, startUp, appSettingFiles).Build().Run();
-                return 0;
+                var hostBuilder = CreateHostBuilder(args, startUp, appSettingFiles);
+                return hostBuilder;
             }
             catch (Exception ex)
             {
                 Log.Fatal(ex, "Host terminated unexpectedly");
-                return 1;
+                return null;
             }
             finally
             {
@@ -52,10 +52,13 @@ namespace OKEService.EndPoints.Web
                     config.AddJsonFile(item, true);
                 }
             })
-                .ConfigureWebHostDefaults(webBuilder =>
-                {
-                    webBuilder.UseStartup(startUp);
-                })
+            .ConfigureWebHostDefaults(webBuilder =>
+            {
+                webBuilder.UseStartup(startUp);
+            })
             .UseSerilog();
+
+
+
     }
 }
