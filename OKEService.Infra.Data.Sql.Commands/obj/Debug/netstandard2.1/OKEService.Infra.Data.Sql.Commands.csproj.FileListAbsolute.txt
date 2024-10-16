@@ -17,3 +17,9 @@ C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Data.Sql.Commands
 C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Data.Sql.Commands\bin\Debug\netstandard2.1\OKEService.Infra.Data.ChangeInterceptors.pdb
 C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Data.Sql.Commands\obj\Debug\netstandard2.1\OKEService.Infra.Data.Sql.Commands.dll
 C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Data.Sql.Commands\obj\Debug\netstandard2.1\OKEService.Infra.Data.Sql.Commands.pdb
+C:\Users\molaei.alireza\Desktop\OKEService\OKEService.Infra.Data.Sql.Commands\obj\Debug\netstandard2.1\OKEService.Infra.Data.Sql.Commands.csproj.AssemblyReference.cache
+C:\Users\molaei.alireza\Desktop\OKEService\OKEService.Infra.Data.Sql.Commands\obj\Debug\netstandard2.1\OKEService.Infra.Data.Sql.Commands.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\molaei.alireza\Desktop\OKEService\OKEService.Infra.Data.Sql.Commands\obj\Debug\netstandard2.1\OKEService.Infra.Data.Sql.Commands.AssemblyInfoInputs.cache
+C:\Users\molaei.alireza\Desktop\OKEService\OKEService.Infra.Data.Sql.Commands\obj\Debug\netstandard2.1\OKEService.Infra.Data.Sql.Commands.AssemblyInfo.cs
+C:\Users\molaei.alireza\Desktop\OKEService\OKEService.Infra.Data.Sql.Commands\obj\Debug\netstandard2.1\OKEService.Infra.Data.Sql.Commands.csproj.CoreCompileInputs.cache
+C:\Users\molaei.alireza\Desktop\OKEService\OKEService.Infra.Data.Sql.Commands\obj\Debug\netstandard2.1\OKEService.Infra.Data.Sql.Commands.sourcelink.json

@@ -1661,11 +1661,7 @@
           "System.Threading.Tasks": "4.3.0"
         }
       },
-      "System.Collections.Immutable/5.0.0": {
-        "compile": {
-          "lib/netstandard2.0/System.Collections.Immutable.dll": {}
-        }
-      },
+      "System.Collections.Immutable/5.0.0": {},
       "System.Collections.NonGeneric/4.3.0": {
         "dependencies": {
           "System.Diagnostics.Debug": "4.3.0",
@@ -2187,11 +2183,7 @@
           "System.Runtime": "4.3.0"
         }
       },
-      "System.Reflection.Metadata/5.0.0": {
-        "compile": {
-          "lib/netstandard2.0/System.Reflection.Metadata.dll": {}
-        }
-      },
+      "System.Reflection.Metadata/5.0.0": {},
       "System.Reflection.Primitives/4.3.0": {
         "dependencies": {
           "Microsoft.NETCore.Platforms": "3.1.0",
@@ -2628,7 +2620,10 @@
           "OKEService.Utilities": "1.0.0"
         },
         "runtime": {
-          "OKEService.Core.ApplicationServices.dll": {}
+          "OKEService.Core.ApplicationServices.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         },
         "compile": {
           "OKEService.Core.ApplicationServices.dll": {}
@@ -2641,7 +2636,10 @@
           "OKEService.Utilities": "1.0.0"
         },
         "runtime": {
-          "OKEService.Core.Domain.dll": {}
+          "OKEService.Core.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         },
         "compile": {
           "OKEService.Core.Domain.dll": {}
@@ -2649,7 +2647,10 @@
       },
       "OKEService.Infra.Data.ChangeInterceptors/1.0.0": {
         "runtime": {
-          "OKEService.Infra.Data.ChangeInterceptors.dll": {}
+          "OKEService.Infra.Data.ChangeInterceptors.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         },
         "compile": {
           "OKEService.Infra.Data.ChangeInterceptors.dll": {}
@@ -2657,7 +2658,10 @@
       },
       "OKEService.Infra.Events.Outbox/1.0.0": {
         "runtime": {
-          "OKEService.Infra.Events.Outbox.dll": {}
+          "OKEService.Infra.Events.Outbox.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         },
         "compile": {
           "OKEService.Infra.Events.Outbox.dll": {}
@@ -2670,7 +2674,10 @@
           "OKEService.Utilities": "1.0.0"
         },
         "runtime": {
-          "OKEService.Infra.Events.PoolingPublisher.dll": {}
+          "OKEService.Infra.Events.PoolingPublisher.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         },
         "compile": {
           "OKEService.Infra.Events.PoolingPublisher.dll": {}
@@ -2682,7 +2689,10 @@
           "OKEService.Utilities": "1.0.0"
         },
         "runtime": {
-          "OKEService.Infra.Tools.Caching.Microsoft.dll": {}
+          "OKEService.Infra.Tools.Caching.Microsoft.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         },
         "compile": {
           "OKEService.Infra.Tools.Caching.Microsoft.dll": {}
@@ -2695,7 +2705,10 @@
           "OKEService.Utilities": "1.0.0"
         },
         "runtime": {
-          "OKEService.Infra.Tools.OM.AutoMapper.dll": {}
+          "OKEService.Infra.Tools.OM.AutoMapper.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         },
         "compile": {
           "OKEService.Infra.Tools.OM.AutoMapper.dll": {}
@@ -2707,7 +2720,10 @@
           "OKEService.Utilities": "1.0.0"
         },
         "runtime": {
-          "OKEService.Messaging.IdempotentConsumers.dll": {}
+          "OKEService.Messaging.IdempotentConsumers.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         },
         "compile": {
           "OKEService.Messaging.IdempotentConsumers.dll": {}
@@ -2718,7 +2734,10 @@
           "Microsoft.Extensions.Logging.Abstractions": "5.0.0"
         },
         "runtime": {
-          "OKEService.Utilities.dll": {}
+          "OKEService.Utilities.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         },
         "compile": {
           "OKEService.Utilities.dll": {}
@@ -4902,7 +4921,7 @@
     "runtime.native.System.Security.Cryptography.Apple/4.3.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-jwjwlEL0Elv6gwoyaokRn12nv/JE+UW/DXJEbzhjCPvGbef36StnHKc9XaZD/rGWqYicrphZ7eumR/jdmNcjRg==",
+      "sha512": "sha512-DloMk88juo0OuOWr56QG7MNchmafTLYWvABy36izkrLI5VledI0rq28KGs1i9wbpeT9NPQrx/wTf8U2vazqQ3Q==",
       "path": "runtime.native.system.security.cryptography.apple/4.3.0",
       "hashPath": "runtime.native.system.security.cryptography.apple.4.3.0.nupkg.sha512"
     },
@@ -4930,7 +4949,7 @@
     "runtime.osx.10.10-x64.runtime.native.System.Security.Cryptography.Apple/4.3.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-Kh9W4agE0r/hK8AX1LvyQI2NrKHBL8pO0gRoDTdDb0LL6Ta1Z2OtFx3lOaAE0ZpCUc/dt9Wzs3rA7a3IsKdOVA==",
+      "sha512": "sha512-kVXCuMTrTlxq4XOOMAysuNwsXWpYeboGddNGpIgNSZmv1b6r/s/DPk0fYMB7Q5Qo4bY68o48jt4T4y5BVecbCQ==",
       "path": "runtime.osx.10.10-x64.runtime.native.system.security.cryptography.apple/4.3.0",
       "hashPath": "runtime.osx.10.10-x64.runtime.native.system.security.cryptography.apple.4.3.0.nupkg.sha512"
     },
@@ -5217,7 +5236,7 @@
     "System.Collections.NonGeneric/4.3.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-LE/oChpRvkSi3U25u0KnJcI44JeDZ1QJCyN4qFDx2uusEypdqR24w7lKYw21eYe5esuCBuc862wRmpF63Yy1KQ==",
+      "sha512": "sha512-prtjIEMhGUnQq6RnPEYLpFt8AtLbp9yq2zxOSrY7KJJZrw25Fi97IzBqY7iqssbM61Ek5b8f3MG/sG1N2sN5KA==",
       "path": "system.collections.nongeneric/4.3.0",
       "hashPath": "system.collections.nongeneric.4.3.0.nupkg.sha512"
     },
@@ -5413,7 +5432,7 @@
     "System.Linq.Queryable/4.0.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-luYXpKXe/9KjpBHywm1oB/m5kNRPv+q3OAdmZDd2smv9MRmKJ3qYd5YkRtfTN6IfpOwtEFhln+QfgDUhN/mx6w==",
+      "sha512": "sha512-Yn/WfYe9RoRfmSLvUt2JerP0BTGGykCZkQPgojaxgzF2N0oPo+/AhB8TXOpdCcNlrG3VRtsamtK2uzsp3cqRVw==",
       "path": "system.linq.queryable/4.0.1",
       "hashPath": "system.linq.queryable.4.0.1.nupkg.sha512"
     },
@@ -5609,7 +5628,7 @@
     "System.Runtime.Serialization.Primitives/4.3.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-2Z5t70a2SwMsfQDp9KOclaZNyQhfIga2gppq9lIUDM1A4ohTshn4JqT7ir8bvIhXgorWKYDAr6rPzEbi/nTGKg==",
+      "sha512": "sha512-Wz+0KOukJGAlXjtKr+5Xpuxf8+c8739RI1C+A2BoQZT+wMCCoMDDdO8/4IRHfaVINqL78GO8dW8G2lW/e45Mcw==",
       "path": "system.runtime.serialization.primitives/4.3.0",
       "hashPath": "system.runtime.serialization.primitives.4.3.0.nupkg.sha512"
     },
@@ -5812,7 +5831,7 @@
     "System.Xml.XmlSerializer/4.3.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-VShQJhOxgD/5M2Z1IWm1vMaSqlbjo1zdFf8H7Ahte6bTvSUhUko/gDpAVVhGgGgTDeue4QyNg1fu1Zz2GKSEuQ==",
+      "sha512": "sha512-MYoTCP7EZ98RrANESW05J5ZwskKDoN0AuZ06ZflnowE50LTpbR5yRg3tHckTVm5j/m47stuGgCrCHWePyHS70Q==",
       "path": "system.xml.xmlserializer/4.3.0",
       "hashPath": "system.xml.xmlserializer.4.3.0.nupkg.sha512"
     },

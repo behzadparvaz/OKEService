@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P9FXi8YCrPLT/Wyf4Vy7sWwZhFAvrxFyaYIZn7yPvJAE6AIQ6IYRpLrnUAc28+ACAzG197g/t8mDbV4aiyc+DQ==",
+  "dgSpecHash": "iRu7vxmG4Es=",
   "success": true,
-  "projectFilePath": "C:\\Users\\parvaz.behzad\\source\\repos\\OKESevice\\OKEService.Infra.Events.Outbox\\OKEService.Infra.Events.Outbox.csproj",
+  "projectFilePath": "C:\\Users\\molaei.alireza\\Desktop\\OKEService\\OKEService.Infra.Events.Outbox\\OKEService.Infra.Events.Outbox.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

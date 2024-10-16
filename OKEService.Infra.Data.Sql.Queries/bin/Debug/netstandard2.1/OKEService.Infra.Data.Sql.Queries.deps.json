@@ -219,7 +219,10 @@
           "OKEService.Utilities": "1.0.0"
         },
         "runtime": {
-          "OKEService.Core.Domain.dll": {}
+          "OKEService.Core.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "OKEService.Utilities/1.0.0": {
@@ -227,7 +230,10 @@
           "Microsoft.Extensions.Logging.Abstractions": "5.0.0"
         },
         "runtime": {
-          "OKEService.Utilities.dll": {}
+          "OKEService.Utilities.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

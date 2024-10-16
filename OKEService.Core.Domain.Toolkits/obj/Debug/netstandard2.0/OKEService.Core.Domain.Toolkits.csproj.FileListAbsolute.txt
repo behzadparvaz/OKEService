@@ -1,0 +1,11 @@
+C:\Users\molaei.alireza\Desktop\OKEService\OKEService.Core.Domain.Toolkits\bin\Debug\netstandard2.0\OKEService.Core.Domain.Toolkits.deps.json
+C:\Users\molaei.alireza\Desktop\OKEService\OKEService.Core.Domain.Toolkits\bin\Debug\netstandard2.0\OKEService.Core.Domain.Toolkits.dll
+C:\Users\molaei.alireza\Desktop\OKEService\OKEService.Core.Domain.Toolkits\bin\Debug\netstandard2.0\OKEService.Core.Domain.Toolkits.pdb
+C:\Users\molaei.alireza\Desktop\OKEService\OKEService.Core.Domain.Toolkits\obj\Debug\netstandard2.0\OKEService.Core.Domain.Toolkits.csproj.AssemblyReference.cache
+C:\Users\molaei.alireza\Desktop\OKEService\OKEService.Core.Domain.Toolkits\obj\Debug\netstandard2.0\OKEService.Core.Domain.Toolkits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\molaei.alireza\Desktop\OKEService\OKEService.Core.Domain.Toolkits\obj\Debug\netstandard2.0\OKEService.Core.Domain.Toolkits.AssemblyInfoInputs.cache
+C:\Users\molaei.alireza\Desktop\OKEService\OKEService.Core.Domain.Toolkits\obj\Debug\netstandard2.0\OKEService.Core.Domain.Toolkits.AssemblyInfo.cs
+C:\Users\molaei.alireza\Desktop\OKEService\OKEService.Core.Domain.Toolkits\obj\Debug\netstandard2.0\OKEService.Core.Domain.Toolkits.csproj.CoreCompileInputs.cache
+C:\Users\molaei.alireza\Desktop\OKEService\OKEService.Core.Domain.Toolkits\obj\Debug\netstandard2.0\OKEService.Core.Domain.Toolkits.sourcelink.json
+C:\Users\molaei.alireza\Desktop\OKEService\OKEService.Core.Domain.Toolkits\obj\Debug\netstandard2.0\OKEService.Core.Domain.Toolkits.dll
+C:\Users\molaei.alireza\Desktop\OKEService\OKEService.Core.Domain.Toolkits\obj\Debug\netstandard2.0\OKEService.Core.Domain.Toolkits.pdb

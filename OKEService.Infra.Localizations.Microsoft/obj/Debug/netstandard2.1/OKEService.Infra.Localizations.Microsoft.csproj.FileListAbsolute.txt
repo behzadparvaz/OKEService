@@ -9,3 +9,17 @@ C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Localizations.Mic
 C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Localizations.Microsoft\obj\Debug\netstandard2.1\OKEService.Infra.Localizations.Microsoft.csproj.CopyComplete
 C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Localizations.Microsoft\obj\Debug\netstandard2.1\OKEService.Infra.Localizations.Microsoft.dll
 C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Infra.Localizations.Microsoft\obj\Debug\netstandard2.1\OKEService.Infra.Localizations.Microsoft.pdb
+C:\Users\molaei.alireza\Desktop\OKEService\OKEService.Infra.Localizations.Microsoft\bin\Debug\netstandard2.1\OKEService.Infra.Localizations.Microsoft.deps.json
+C:\Users\molaei.alireza\Desktop\OKEService\OKEService.Infra.Localizations.Microsoft\bin\Debug\netstandard2.1\OKEService.Infra.Localizations.Microsoft.dll
+C:\Users\molaei.alireza\Desktop\OKEService\OKEService.Infra.Localizations.Microsoft\bin\Debug\netstandard2.1\OKEService.Infra.Localizations.Microsoft.pdb
+C:\Users\molaei.alireza\Desktop\OKEService\OKEService.Infra.Localizations.Microsoft\bin\Debug\netstandard2.1\OKEService.Utilities.dll
+C:\Users\molaei.alireza\Desktop\OKEService\OKEService.Infra.Localizations.Microsoft\bin\Debug\netstandard2.1\OKEService.Utilities.pdb
+C:\Users\molaei.alireza\Desktop\OKEService\OKEService.Infra.Localizations.Microsoft\obj\Debug\netstandard2.1\OKEService.Infra.Localizations.Microsoft.csproj.AssemblyReference.cache
+C:\Users\molaei.alireza\Desktop\OKEService\OKEService.Infra.Localizations.Microsoft\obj\Debug\netstandard2.1\OKEService.Infra.Localizations.Microsoft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\molaei.alireza\Desktop\OKEService\OKEService.Infra.Localizations.Microsoft\obj\Debug\netstandard2.1\OKEService.Infra.Localizations.Microsoft.AssemblyInfoInputs.cache
+C:\Users\molaei.alireza\Desktop\OKEService\OKEService.Infra.Localizations.Microsoft\obj\Debug\netstandard2.1\OKEService.Infra.Localizations.Microsoft.AssemblyInfo.cs
+C:\Users\molaei.alireza\Desktop\OKEService\OKEService.Infra.Localizations.Microsoft\obj\Debug\netstandard2.1\OKEService.Infra.Localizations.Microsoft.csproj.CoreCompileInputs.cache
+C:\Users\molaei.alireza\Desktop\OKEService\OKEService.Infra.Localizations.Microsoft\obj\Debug\netstandard2.1\OKEService.Infra.Localizations.Microsoft.sourcelink.json
+C:\Users\molaei.alireza\Desktop\OKEService\OKEService.Infra.Localizations.Microsoft\obj\Debug\netstandard2.1\OKEServi.6308520B.Up2Date
+C:\Users\molaei.alireza\Desktop\OKEService\OKEService.Infra.Localizations.Microsoft\obj\Debug\netstandard2.1\OKEService.Infra.Localizations.Microsoft.dll
+C:\Users\molaei.alireza\Desktop\OKEService\OKEService.Infra.Localizations.Microsoft\obj\Debug\netstandard2.1\OKEService.Infra.Localizations.Microsoft.pdb

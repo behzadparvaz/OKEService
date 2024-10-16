@@ -120,7 +120,10 @@
       },
       "OKEService.Infra.Events.Outbox/1.0.0": {
         "runtime": {
-          "OKEService.Infra.Events.Outbox.dll": {}
+          "OKEService.Infra.Events.Outbox.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "OKEService.Utilities/1.0.0": {
@@ -128,7 +131,10 @@
           "Microsoft.Extensions.Logging.Abstractions": "5.0.0"
         },
         "runtime": {
-          "OKEService.Utilities.dll": {}
+          "OKEService.Utilities.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

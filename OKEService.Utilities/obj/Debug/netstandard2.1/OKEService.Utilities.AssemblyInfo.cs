@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("OK Micro Service Utilities Package")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d8b9a4f87511c967d93885269f1494fb836e0688")]
 [assembly: System.Reflection.AssemblyProductAttribute("OKEService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OKEService.Utilities")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -7,3 +7,14 @@ C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Utilities\obj\Debug\net
 C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Utilities\obj\Debug\netstandard2.1\OKEService.Utilities.pdb
 C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Utilities\obj\Debug\netstandard2.1\OKEService.Utilities.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Utilities\obj\Debug\netstandard2.1\OKEService.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\molaei.alireza\Desktop\OKEService\OKEService.Utilities\bin\Debug\netstandard2.1\OKEService.Utilities.deps.json
+C:\Users\molaei.alireza\Desktop\OKEService\OKEService.Utilities\bin\Debug\netstandard2.1\OKEService.Utilities.dll
+C:\Users\molaei.alireza\Desktop\OKEService\OKEService.Utilities\bin\Debug\netstandard2.1\OKEService.Utilities.pdb
+C:\Users\molaei.alireza\Desktop\OKEService\OKEService.Utilities\obj\Debug\netstandard2.1\OKEService.Utilities.csproj.AssemblyReference.cache
+C:\Users\molaei.alireza\Desktop\OKEService\OKEService.Utilities\obj\Debug\netstandard2.1\OKEService.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\molaei.alireza\Desktop\OKEService\OKEService.Utilities\obj\Debug\netstandard2.1\OKEService.Utilities.AssemblyInfoInputs.cache
+C:\Users\molaei.alireza\Desktop\OKEService\OKEService.Utilities\obj\Debug\netstandard2.1\OKEService.Utilities.AssemblyInfo.cs
+C:\Users\molaei.alireza\Desktop\OKEService\OKEService.Utilities\obj\Debug\netstandard2.1\OKEService.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\molaei.alireza\Desktop\OKEService\OKEService.Utilities\obj\Debug\netstandard2.1\OKEService.Utilities.sourcelink.json
+C:\Users\molaei.alireza\Desktop\OKEService\OKEService.Utilities\obj\Debug\netstandard2.1\OKEService.Utilities.dll
+C:\Users\molaei.alireza\Desktop\OKEService\OKEService.Utilities\obj\Debug\netstandard2.1\OKEService.Utilities.pdb

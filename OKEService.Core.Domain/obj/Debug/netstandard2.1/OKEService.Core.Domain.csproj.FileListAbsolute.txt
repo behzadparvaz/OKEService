@@ -11,3 +11,17 @@ C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Core.Domain\obj\Debug\n
 C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Core.Domain\obj\Debug\netstandard2.1\OKEService.Core.Domain.pdb
 C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Core.Domain\obj\Debug\netstandard2.1\OKEService.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\parvaz.behzad\source\repos\OKESevice\OKEService.Core.Domain\obj\Debug\netstandard2.1\OKEService.Core.Domain.csproj.CoreCompileInputs.cache
+C:\Users\molaei.alireza\Desktop\OKEService\OKEService.Core.Domain\bin\Debug\netstandard2.1\OKEService.Core.Domain.deps.json
+C:\Users\molaei.alireza\Desktop\OKEService\OKEService.Core.Domain\bin\Debug\netstandard2.1\OKEService.Core.Domain.dll
+C:\Users\molaei.alireza\Desktop\OKEService\OKEService.Core.Domain\bin\Debug\netstandard2.1\OKEService.Core.Domain.pdb
+C:\Users\molaei.alireza\Desktop\OKEService\OKEService.Core.Domain\bin\Debug\netstandard2.1\OKEService.Utilities.dll
+C:\Users\molaei.alireza\Desktop\OKEService\OKEService.Core.Domain\bin\Debug\netstandard2.1\OKEService.Utilities.pdb
+C:\Users\molaei.alireza\Desktop\OKEService\OKEService.Core.Domain\obj\Debug\netstandard2.1\OKEService.Core.Domain.csproj.AssemblyReference.cache
+C:\Users\molaei.alireza\Desktop\OKEService\OKEService.Core.Domain\obj\Debug\netstandard2.1\OKEService.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\molaei.alireza\Desktop\OKEService\OKEService.Core.Domain\obj\Debug\netstandard2.1\OKEService.Core.Domain.AssemblyInfoInputs.cache
+C:\Users\molaei.alireza\Desktop\OKEService\OKEService.Core.Domain\obj\Debug\netstandard2.1\OKEService.Core.Domain.AssemblyInfo.cs
+C:\Users\molaei.alireza\Desktop\OKEService\OKEService.Core.Domain\obj\Debug\netstandard2.1\OKEService.Core.Domain.csproj.CoreCompileInputs.cache
+C:\Users\molaei.alireza\Desktop\OKEService\OKEService.Core.Domain\obj\Debug\netstandard2.1\OKEService.Core.Domain.sourcelink.json
+C:\Users\molaei.alireza\Desktop\OKEService\OKEService.Core.Domain\obj\Debug\netstandard2.1\OKEServi.9FEAA883.Up2Date
+C:\Users\molaei.alireza\Desktop\OKEService\OKEService.Core.Domain\obj\Debug\netstandard2.1\OKEService.Core.Domain.dll
+C:\Users\molaei.alireza\Desktop\OKEService\OKEService.Core.Domain\obj\Debug\netstandard2.1\OKEService.Core.Domain.pdb

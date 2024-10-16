@@ -1,44 +1,39 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\parvaz.behzad\\source\\repos\\OKESevice\\OKEService.Core.ApplicationServices\\OKEService.Core.ApplicationServices.csproj": {}
+    "C:\\Users\\molaei.alireza\\Desktop\\OKEService\\OKEService.Core.ApplicationServices\\OKEService.Core.ApplicationServices.csproj": {}
   },
   "projects": {
-    "C:\\Users\\parvaz.behzad\\source\\repos\\OKESevice\\OKEService.Core.ApplicationServices\\OKEService.Core.ApplicationServices.csproj": {
+    "C:\\Users\\molaei.alireza\\Desktop\\OKEService\\OKEService.Core.ApplicationServices\\OKEService.Core.ApplicationServices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\parvaz.behzad\\source\\repos\\OKESevice\\OKEService.Core.ApplicationServices\\OKEService.Core.ApplicationServices.csproj",
+        "projectUniqueName": "C:\\Users\\molaei.alireza\\Desktop\\OKEService\\OKEService.Core.ApplicationServices\\OKEService.Core.ApplicationServices.csproj",
         "projectName": "OKEService.Core.ApplicationServices",
-        "projectPath": "C:\\Users\\parvaz.behzad\\source\\repos\\OKESevice\\OKEService.Core.ApplicationServices\\OKEService.Core.ApplicationServices.csproj",
-        "packagesPath": "C:\\Users\\parvaz.behzad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\parvaz.behzad\\source\\repos\\OKESevice\\OKEService.Core.ApplicationServices\\obj\\",
+        "projectPath": "C:\\Users\\molaei.alireza\\Desktop\\OKEService\\OKEService.Core.ApplicationServices\\OKEService.Core.ApplicationServices.csproj",
+        "packagesPath": "C:\\Users\\molaei.alireza\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\molaei.alireza\\Desktop\\OKEService\\OKEService.Core.ApplicationServices\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\parvaz.behzad\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\molaei.alireza\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
         ],
         "sources": {
-          "C:\\Users\\parvaz.behzad\\Downloads\\Stimulsoft Reports AIO 2020.2.3_Sourcebaran.Com\\Stimulsoft Reports AIO 2020.2.3_Sourcebaran.Com\\Crack_Sourcebaran.Com\\Libs\\Reports.NetCore": {},
-          "\\\\172.31.64.37\\nuget-repo": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "C:\\Users\\parvaz.behzad\\source\\repos\\OKESevice\\OKEService.Core.Domain\\OKEService.Core.Domain.csproj": {
-                "projectPath": "C:\\Users\\parvaz.behzad\\source\\repos\\OKESevice\\OKEService.Core.Domain\\OKEService.Core.Domain.csproj"
+              "C:\\Users\\molaei.alireza\\Desktop\\OKEService\\OKEService.Core.Domain\\OKEService.Core.Domain.csproj": {
+                "projectPath": "C:\\Users\\molaei.alireza\\Desktop\\OKEService\\OKEService.Core.Domain\\OKEService.Core.Domain.csproj"
               },
-              "C:\\Users\\parvaz.behzad\\source\\repos\\OKESevice\\OKEService.Utilities\\OKEService.Utilities.csproj": {
-                "projectPath": "C:\\Users\\parvaz.behzad\\source\\repos\\OKESevice\\OKEService.Utilities\\OKEService.Utilities.csproj"
+              "C:\\Users\\molaei.alireza\\Desktop\\OKEService\\OKEService.Utilities\\OKEService.Utilities.csproj": {
+                "projectPath": "C:\\Users\\molaei.alireza\\Desktop\\OKEService\\OKEService.Utilities\\OKEService.Utilities.csproj"
               }
             }
           }
@@ -47,6 +42,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -68,7 +68,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -77,42 +78,37 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-preview.3.21202.5\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\parvaz.behzad\\source\\repos\\OKESevice\\OKEService.Core.Domain\\OKEService.Core.Domain.csproj": {
+    "C:\\Users\\molaei.alireza\\Desktop\\OKEService\\OKEService.Core.Domain\\OKEService.Core.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\parvaz.behzad\\source\\repos\\OKESevice\\OKEService.Core.Domain\\OKEService.Core.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\molaei.alireza\\Desktop\\OKEService\\OKEService.Core.Domain\\OKEService.Core.Domain.csproj",
         "projectName": "OKEService.Core.Domain",
-        "projectPath": "C:\\Users\\parvaz.behzad\\source\\repos\\OKESevice\\OKEService.Core.Domain\\OKEService.Core.Domain.csproj",
-        "packagesPath": "C:\\Users\\parvaz.behzad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\parvaz.behzad\\source\\repos\\OKESevice\\OKEService.Core.Domain\\obj\\",
+        "projectPath": "C:\\Users\\molaei.alireza\\Desktop\\OKEService\\OKEService.Core.Domain\\OKEService.Core.Domain.csproj",
+        "packagesPath": "C:\\Users\\molaei.alireza\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\molaei.alireza\\Desktop\\OKEService\\OKEService.Core.Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\parvaz.behzad\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\molaei.alireza\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
         ],
         "sources": {
-          "C:\\Users\\parvaz.behzad\\Downloads\\Stimulsoft Reports AIO 2020.2.3_Sourcebaran.Com\\Stimulsoft Reports AIO 2020.2.3_Sourcebaran.Com\\Crack_Sourcebaran.Com\\Libs\\Reports.NetCore": {},
-          "\\\\172.31.64.37\\nuget-repo": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "C:\\Users\\parvaz.behzad\\source\\repos\\OKESevice\\OKEService.Utilities\\OKEService.Utilities.csproj": {
-                "projectPath": "C:\\Users\\parvaz.behzad\\source\\repos\\OKESevice\\OKEService.Utilities\\OKEService.Utilities.csproj"
+              "C:\\Users\\molaei.alireza\\Desktop\\OKEService\\OKEService.Utilities\\OKEService.Utilities.csproj": {
+                "projectPath": "C:\\Users\\molaei.alireza\\Desktop\\OKEService\\OKEService.Utilities\\OKEService.Utilities.csproj"
               }
             }
           }
@@ -121,6 +117,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -142,7 +143,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -151,34 +153,29 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-preview.3.21202.5\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\parvaz.behzad\\source\\repos\\OKESevice\\OKEService.Utilities\\OKEService.Utilities.csproj": {
+    "C:\\Users\\molaei.alireza\\Desktop\\OKEService\\OKEService.Utilities\\OKEService.Utilities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\parvaz.behzad\\source\\repos\\OKESevice\\OKEService.Utilities\\OKEService.Utilities.csproj",
+        "projectUniqueName": "C:\\Users\\molaei.alireza\\Desktop\\OKEService\\OKEService.Utilities\\OKEService.Utilities.csproj",
         "projectName": "OKEService.Utilities",
-        "projectPath": "C:\\Users\\parvaz.behzad\\source\\repos\\OKESevice\\OKEService.Utilities\\OKEService.Utilities.csproj",
-        "packagesPath": "C:\\Users\\parvaz.behzad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\parvaz.behzad\\source\\repos\\OKESevice\\OKEService.Utilities\\obj\\",
+        "projectPath": "C:\\Users\\molaei.alireza\\Desktop\\OKEService\\OKEService.Utilities\\OKEService.Utilities.csproj",
+        "packagesPath": "C:\\Users\\molaei.alireza\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\molaei.alireza\\Desktop\\OKEService\\OKEService.Utilities\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\parvaz.behzad\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\molaei.alireza\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
         ],
         "sources": {
-          "C:\\Users\\parvaz.behzad\\Downloads\\Stimulsoft Reports AIO 2020.2.3_Sourcebaran.Com\\Stimulsoft Reports AIO 2020.2.3_Sourcebaran.Com\\Crack_Sourcebaran.Com\\Libs\\Reports.NetCore": {},
-          "\\\\172.31.64.37\\nuget-repo": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -191,6 +188,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -208,7 +210,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -217,7 +220,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-preview.3.21202.5\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

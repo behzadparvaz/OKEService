@@ -11,9 +11,9 @@ namespace OKEService.Infra.Data.Sql.Commands.OutBoxEventItems
 {
     public class SqlOutBoxEventItemRepository : IOutBoxEventItemRepository
     {
-        private readonly OKEServiceConfigurations _configurations;
+        private readonly OKEServiceConfigurationOptions _configurations;
 
-        public SqlOutBoxEventItemRepository(OKEServiceConfigurations configurations)
+        public SqlOutBoxEventItemRepository(OKEServiceConfigurationOptions configurations)
         {
             _configurations = configurations;
         }

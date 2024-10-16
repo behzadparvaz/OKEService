@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "dSDQ87UegK/psFC+GvY4qE8wLAh1Fz1ih+tFRjqdf18tNRKxyJDBfw19BJOJpZ04c81eIk9x0uPoNUqdxsp5SA==",
+  "dgSpecHash": "cu3wJskW+C8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\parvaz.behzad\\source\\repos\\OKESevice\\OKEService.Infra.Data.ChangeInterceptors\\OKEService.Infra.Data.ChangeInterceptors.csproj",
+  "projectFilePath": "C:\\Users\\molaei.alireza\\Desktop\\OKEService\\OKEService.Infra.Data.ChangeInterceptors\\OKEService.Infra.Data.ChangeInterceptors.csproj",
   "expectedPackageFiles": [
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\molaei.alireza\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\molaei.alireza\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }

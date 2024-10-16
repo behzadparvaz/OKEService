@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OKEService.Messaging.IdempotentConsumers.Store.Sql")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d8b9a4f87511c967d93885269f1494fb836e0688")]
 [assembly: System.Reflection.AssemblyProductAttribute("OKEService.Messaging.IdempotentConsumers.Store.Sql")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OKEService.Messaging.IdempotentConsumers.Store.Sql")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

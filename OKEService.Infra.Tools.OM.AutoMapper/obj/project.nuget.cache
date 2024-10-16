@@ -1,14 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "iWxuOWTVZ84fHEsrBD3677Rlf9Wqp1V4yBYH1INRE+55nd7r9txVl0VGts3mCaHgjPYGswRgD+lW0TMvUGvHQQ==",
+  "dgSpecHash": "IXMEzwkSzII=",
   "success": true,
-  "projectFilePath": "C:\\Users\\parvaz.behzad\\source\\repos\\OKESevice\\OKEService.Infra.Tools.OM.AutoMapper\\OKEService.Infra.Tools.OM.AutoMapper.csproj",
+  "projectFilePath": "C:\\Users\\molaei.alireza\\Desktop\\OKEService\\OKEService.Infra.Tools.OM.AutoMapper\\OKEService.Infra.Tools.OM.AutoMapper.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\parvaz.behzad\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
-    "C:\\Users\\parvaz.behzad\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
-    "C:\\Users\\parvaz.behzad\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
-    "C:\\Users\\parvaz.behzad\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
-    "C:\\Users\\parvaz.behzad\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+    "C:\\Users\\molaei.alireza\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\molaei.alireza\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\molaei.alireza\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\molaei.alireza\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\molaei.alireza\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }

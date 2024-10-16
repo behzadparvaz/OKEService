@@ -189,7 +189,10 @@
           "OKEService.Utilities": "1.0.0"
         },
         "runtime": {
-          "OKEService.Core.ApplicationServices.dll": {}
+          "OKEService.Core.ApplicationServices.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "OKEService.Core.Domain/1.0.0": {
@@ -199,7 +202,10 @@
           "OKEService.Utilities": "1.0.0"
         },
         "runtime": {
-          "OKEService.Core.Domain.dll": {}
+          "OKEService.Core.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "OKEService.Messaging.IdempotentConsumers/1.0.0": {
@@ -208,7 +214,10 @@
           "OKEService.Utilities": "1.0.0"
         },
         "runtime": {
-          "OKEService.Messaging.IdempotentConsumers.dll": {}
+          "OKEService.Messaging.IdempotentConsumers.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "OKEService.Utilities/1.0.0": {
@@ -216,7 +225,10 @@
           "Microsoft.Extensions.Logging.Abstractions": "5.0.0"
         },
         "runtime": {
-          "OKEService.Utilities.dll": {}
+          "OKEService.Utilities.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

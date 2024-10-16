@@ -1,13 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "IwS2rRpBG+P3+3KdJimhAdWrEvpaTa/3Jh1IFGzeW1ikYzxUHAUHMPlPbZQtQwgvjim0dVPf+1WZ/lubVayalQ==",
+  "dgSpecHash": "YRVF+/NsXl0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\parvaz.behzad\\source\\repos\\OKESevice\\OKEService.Messaging.IdempotentConsumers\\OKEService.Messaging.IdempotentConsumers.csproj",
+  "projectFilePath": "C:\\Users\\molaei.alireza\\Desktop\\OKEService\\OKEService.Messaging.IdempotentConsumers\\OKEService.Messaging.IdempotentConsumers.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\parvaz.behzad\\.nuget\\packages\\fluentvalidation\\9.5.3\\fluentvalidation.9.5.3.nupkg.sha512",
-    "C:\\Users\\parvaz.behzad\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
-    "C:\\Users\\parvaz.behzad\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
-    "C:\\Users\\parvaz.behzad\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512"
+    "C:\\Users\\molaei.alireza\\.nuget\\packages\\fluentvalidation\\9.5.3\\fluentvalidation.9.5.3.nupkg.sha512",
+    "C:\\Users\\molaei.alireza\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\molaei.alireza\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\molaei.alireza\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\molaei.alireza\\.nuget\\packages\\okeservice.core.domain\\1.0.0\\okeservice.core.domain.1.0.0.nupkg.sha512"
   ],
   "logs": []
 }
