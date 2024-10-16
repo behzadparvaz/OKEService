@@ -102,7 +102,7 @@ namespace OKEService.Infra.Data.Sql.Commands
 
         private void beforeSaveTriggers()
         {
-            var _hamoonConfigurations = this.GetService<OKEServiceConfigurations>();
+            var _hamoonConfigurations = this.GetService<OKEServiceConfigurationOptions>();
             setShadowProperties();
             if (_hamoonConfigurations.ApplicationEvents.TransactionalEventsEnabled)
                 addOutboxEvetItems();

@@ -308,12 +308,18 @@
           "OKEService.Utilities": "1.0.0"
         },
         "runtime": {
-          "OKEService.Core.Domain.dll": {}
+          "OKEService.Core.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "OKEService.Infra.Data.ChangeInterceptors/1.0.0": {
         "runtime": {
-          "OKEService.Infra.Data.ChangeInterceptors.dll": {}
+          "OKEService.Infra.Data.ChangeInterceptors.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "OKEService.Infra.Data.Sql/1.0.0": {
@@ -322,12 +328,18 @@
           "OKEService.Core.Domain": "1.0.0"
         },
         "runtime": {
-          "OKEService.Infra.Data.Sql.dll": {}
+          "OKEService.Infra.Data.Sql.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "OKEService.Infra.Events.Outbox/1.0.0": {
         "runtime": {
-          "OKEService.Infra.Events.Outbox.dll": {}
+          "OKEService.Infra.Events.Outbox.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "OKEService.Utilities/1.0.0": {
@@ -335,7 +347,10 @@
           "Microsoft.Extensions.Logging.Abstractions": "5.0.0"
         },
         "runtime": {
-          "OKEService.Utilities.dll": {}
+          "OKEService.Utilities.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

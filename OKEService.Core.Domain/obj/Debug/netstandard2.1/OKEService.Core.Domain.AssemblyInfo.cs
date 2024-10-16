@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OKEService.Core.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ebf27e6ce9ca4eb3de7982ac94f1b06c6aeda76")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b96da3f054631aa5ac89c7696c69ba4c6df30641")]
 [assembly: System.Reflection.AssemblyProductAttribute("OKEService.Core.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OKEService.Core.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

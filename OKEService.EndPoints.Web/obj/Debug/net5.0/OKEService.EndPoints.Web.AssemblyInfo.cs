@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OKEService.EndPoints.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4e66606af97435ccadcb0d3a06b2eddc5051fd5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b96da3f054631aa5ac89c7696c69ba4c6df30641")]
 [assembly: System.Reflection.AssemblyProductAttribute("OKEService.EndPoints.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OKEService.EndPoints.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
